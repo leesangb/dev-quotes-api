@@ -1,0 +1,19 @@
+{
+  "name": "dev-quotes-api",
+  "version": "1.0.0",
+  "description": "dev quotes",
+  "main": "src/index.js",
+  "repository": "git@github.com:leesangb/dev-quotes-api.git",
+  "author": "Sangbin Lee <leesangbin@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
