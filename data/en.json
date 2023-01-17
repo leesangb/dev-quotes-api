@@ -6,5 +6,9 @@
   {
     "author": "Michael A. Jackson",
     "content": "We follow two rules in the matter of optimization: Rule 1, Don't do it. Rule 2 (for experts only), Don't do it yet - that is, not until you have a perfectly clear and unoptimized solution."
+  },
+  {
+    "author": "Burt Rutan",
+    "content": "Testing leads to failure, and failure leads to understanding."
   }
 ]
